@@ -4,7 +4,7 @@
 PERSON1=Ramesh
 PERSON2=suresh
 
-echo "$person1 : Hi $person2,good morning"
-echo "$person2 : hello $person1, good morning"
-echo "$person1 : how are you $person2?"
-echo "$person2 : I'm fine $person1, how are you?"
+echo "$PERSON1 : Hi $PERSON2,good morning"
+echo "$PERSON2 : hello $PERSON1, good morning"
+echo "$PERSON1 : how are you $PERSON2?"
+echo "$PERSON2 : I'm fine $PERSON1, how are you?"
